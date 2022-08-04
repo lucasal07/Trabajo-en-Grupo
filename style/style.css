@@ -5,8 +5,11 @@
     text-align: justify;
  }
 
-
-h1 { 
+header {
+text-align: center;
+ }
+h2 { 
+    color: dodgerblue;
     text-align: center;
     
 }
