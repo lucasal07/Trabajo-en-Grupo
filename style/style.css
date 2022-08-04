@@ -1,15 +1,21 @@
  body {
     background-color:grey;
-    color: white;
+    color: whitesmoke;
     font-family: Cambria;
-    text-align: justify;
+    text-align: center;
  }
 
 header {
 text-align: center;
- }
+}
+
 h2 { 
-    color: dodgerblue;
+    color: black;
     text-align: center;
     
+}
+
+h3{
+    color: black;
+    text-align: center;
 }
